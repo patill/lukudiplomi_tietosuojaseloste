@@ -9,7 +9,7 @@ ulkopuolisesta lähteestä (finna.fi sekä github.com) ja tallennetaan käyttäj
 (tykkäykset) myös tallentuvat käyttäjän laitteelle. Käyttäjä voi laitteen jako-toiminnallisuuden kauttaa lähettää tietoja
 omasta datasta ulkopuolisille, mutta data itsessään pysyy sovelluksessa.
 
-Data voidaan poistaa helposti nollaamalla sovellusta tai poistaamalla sovelluksen asennuksen.
+Data voidaan poistaa helposti nollaamalla sovellusta tai poistaamalla sovelluksen asennus.
 
 Sovellukseen liittyviä kysymyksiä voi osoittaa Porin kaupunginkirjastolle.
 
