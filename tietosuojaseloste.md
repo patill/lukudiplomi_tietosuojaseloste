@@ -1,6 +1,6 @@
 ## Porin lukudiplomin tietosuojaseloste
 
-Porin lukudiplomi on sovellus Android- ja iOS-laitteille. Sen on kehittänyt alunperin Miika Koskela. Porin lukudiplomin on
+Porin lukudiplomi on sovellus Android- ja iOS-laitteille. Sen on kehittänyt alunperin Miika Koskela Tampereen kaupunginkirjastolle. Porin lukudiplomin on
 sovittanut Porin kirjaston tarpeisiin Till Paala.
 Kysessä on avoimen lähdekoodin sovellus, joka on julkaistu MIT-lisenssilla.
 
